@@ -1,0 +1,14 @@
+<script src="assets/js/jquery.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/owl.js"></script>
+<script src="assets/js/jquery.magnific-popup.min.js"></script>
+<script src="assets/js/appear.js"></script>
+<script src="assets/js/wow.min.js"></script>
+<script src="assets/js/parallax-scroll.js"></script>
+<script src="assets/js/circle-progress.js"></script>
+<script src="assets/js/jquery.counterup.min.js"></script>
+<script src="assets/js/waypoints.min.js"></script>
+<script src="assets/js/typer-new.js"></script>
+<script src="assets/js/side-demo.js"></script>
+<script src="assets/js/it-source.js"></script>
